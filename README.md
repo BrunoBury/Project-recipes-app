@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+**Projeto Recipes-APP**
+
+Neste projeto  de uma aplicação de receitas  onde o objetivo é criar uma aplicação que permita o usuário buscar e filtrar receitas de comidas e bebidas, marcar receitas como favoritas, e ver detalhes.
+
+**Tecnologias Utilizadas:**
+- React
+- React Router DOM
+- Context API
+- Hooks (useState, useContext, useEffect)
+- HTML5
+- CSS3
+
+🤝 Projeto em Grupo!
+ - Bruno Bury
+ - Carolina Pedrosa
+ - Douglas da Cruz
